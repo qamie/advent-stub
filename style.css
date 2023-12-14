@@ -33,6 +33,7 @@ h1 {
   background-size: cover;
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 15px;
   /* box-sizing: border-box; */
 }
 .door {
